@@ -12,4 +12,4 @@
       - $python get-pip.py
   
 4. Install tweepy - twitter API
-      - $sudo install tweepy
+      - $pip install tweepy
