@@ -1,4 +1,6 @@
 # trump
+*A quirky simple python script to hopefully brighten your day with a likely obscene or otherwise stupid tweet
+  by Donald Trump (most recent)*
 
 1. Go to apps.twitter.com and create application and obtain:
       - Consumer Key
