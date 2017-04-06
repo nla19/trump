@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 #
 ########################################################################
-#								                                                       #
+#								        #
 # python script to print trumps latest tweet                           #
-#								                                                       #
+#								        #
 # Nick Abbott | April 5, 2017 | Just because I'm bored                 #
 #								                                                       #
 ########################################################################
