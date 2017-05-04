@@ -11,7 +11,9 @@
 2. Modify trump.py with above material.
 
 3. Install Pip - go to https://packaging.python.org/installing/#install-pip-setuptools-and-wheel and download get-pip.py
+
       `python get-pip.py`
   
 4. Install tweepy - twitter API
+
        `pip install tweepy`
