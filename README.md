@@ -12,4 +12,4 @@
   
 3. Install tweepy - twitter API
 
-       `pip install tweepy`
+       pip install tweepy
